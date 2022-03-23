@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: antiquewhite;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+p{
+    color: aqua;
+}
+h3{
+    color: cadetblue;
+}
+li:hover{
+    color: antiquewhite;
+}
+li{
+    display: table;
+    margin: 0 auto;
+    color: aquamarine;
+}
+img{
+    border-radius: 25px;
+}
+a:hover{
+    color: antiquewhite;
+}
