@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: grey;
+}
+h3{
+    color: aqua;
+}
+p{
+    color: aquamarine;
+}
+#table1{
+    width: 100%;
+}
+li{
+    color: chartreuse;
+}
+li:hover{
+    color: antiquewhite;
+}
+nav, a{
+    margin-right: 1rem;
+    text-decoration: none;
+}
+a:hover{
+    color: antiquewhite;
+}
+/* about */
+table{
+    table-layout: fixed;
+}
+tr{
+    color: chartreuse;
+}
+td{
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+    table-layout: fixed;
+    color: rgb(29, 151, 113);
+}
+td:hover{
+    color: antiquewhite;
+}
+/* contact */
+
+input{
+    background-color: rgb(70, 68, 68);
+    color: chartreuse;
+}
+::placeholder{
+    color: chartreuse;
+}
+.name{
+   box-shadow: 25px;
+}
